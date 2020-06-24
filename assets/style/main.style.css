@@ -1,0 +1,39 @@
+/* .col-md {
+  border: 1px solid black;
+} */
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300&family=Dancing+Script&family=Fjalla+One&family=Pacifico&family=Roboto+Slab&family=Sriracha&display=swap');
+
+#title,
+#nav-menu {
+    font-family: "Sriracha", cursive;
+}
+
+.h3 {
+    font-family: 'Sriracha', cursive;
+    margin-left: 55px;
+}
+
+.navbar {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.container-md {
+    margin-top: 150px;
+}
+
+.card {
+    margin: 20px;
+    border-radius: 10px;
+}
+
+#a-link {
+    text-decoration: none;
+    font-size: 1rem;
+    font-family: 'Dancing Script', cursive;
+}
+
+.card-title {
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+}
